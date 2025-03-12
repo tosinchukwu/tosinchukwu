@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-
+![GitHub Contribution Snake](https://github.com/yourusername/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -51,9 +51,13 @@ Git and Python
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
 
 
-![GitHub Contribution Snake](https://github.com/yourusername/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 

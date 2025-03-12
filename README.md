@@ -1,8 +1,9 @@
-## Hi, I'm Tosinchukwu! 👋 </p>
-##
-##
-##
 
+<h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
+
+<p align="center">
+  <a href="https://github.com/tosinchukwu"><img src="https://komarev.com/ghpvc/?username=tosinchukwu&style=flat-square" alt="Profile views"/></a>
+</p>
 
 
 <!--
@@ -14,19 +15,19 @@ Here are some ideas to get you started:
 💬 Ask me about ... -->
 
 
-#### 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 
-Git, Python and JavaScript
+**Git**
 
-#### 👯 I’m looking to collaborate with:
+### 👯 I’m looking to collaborate with:
 
-whoever that is open to Teach
+**Whoever that is open to Teach**
 
-#### 🤔 I’m looking for help with:
+### 🤔 I’m looking for help with:
 
-Git and Python
+**Git and Python**
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mouseng20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tosin.mouseng20/)
@@ -37,8 +38,6 @@ Git and Python
 
 #### ⚡ Fun fact:
 - In all things you do, never forget God, the Creator of Heaven and Earth
-
-##
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)

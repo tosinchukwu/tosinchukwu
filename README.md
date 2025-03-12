@@ -1,5 +1,7 @@
 ## Hi, I'm Tosinchukwu! 👋
 
+
+
 <!--
 **tosinchukwu/tosinchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,6 +9,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 💬 Ask me about ... -->
+
+
 
 
 
@@ -37,21 +41,14 @@ Git and Python
 #### ⚡ Fun fact:
 - In all things you do, never forget the Creator of Heaven and Earth
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosinchukwu&theme=github_dark)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)
 
 
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosinchukwu&theme=radical)
 
 
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=github_dark)
-
-
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tosinchukwu&theme=github_dark)
-
-
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tosinchukwu&theme=github_dark)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
 
 

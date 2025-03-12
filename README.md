@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Contribution Snake](https://github.com/yourusername/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/tosinchukwu/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -39,7 +39,7 @@ Git and Python
 #### 😄 Pronouns: ...He/Him
 
 #### ⚡ Fun fact:
-- In all things you do, never forget the Creator of Heaven and Earth
+- In all things you do, never forget God, the Creator of Heaven and Earth
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)

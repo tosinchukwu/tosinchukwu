@@ -13,22 +13,25 @@ Here are some ideas to get you started:
   <a href="https://github.com/tosinchukwu"><img src="https://komarev.com/ghpvc/?username=tosinchukwu&style=flat-square" alt="Profile views"/></a>
 </p>
 
-
 ---
 
 
-### 🌱 I’m currently learning: **Git**
+### 🌱 I’m currently learning: **Git...**
 
-### 👯 I’m looking to collaborate with: **Whoever that is open to Teach**
+### 👯 I’m looking to collaborate with: **Whoever that is open to Teach!**
 
 ### 🤔 I’m looking for help with: **Git and Python**
 
 ### 📫 How to reach me:
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348132845660?text=Hello!%20I%20found%20you%20on%20GitHub)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mouseng20)
+[![Warpcast](https://img.shields.io/badge/Warpcast-5A67D8?style=for-the-badge&logo=warpcast&logoColor=white)](https://warpcast.com/tosinchukwu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tosin.mouseng20/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tosin.mouseng20/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tosinchukwu)
+
+
 
 
 

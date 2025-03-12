@@ -37,3 +37,23 @@ Git and Python
 #### ⚡ Fun fact:
 - In all things you do, never forget the Creator of Heaven and Earth
 
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosinchukwu&theme=github_dark)
+
+
+
+
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=github_dark)
+
+
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tosinchukwu&theme=github_dark)
+
+
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tosinchukwu&theme=github_dark)
+
+
+
+
+

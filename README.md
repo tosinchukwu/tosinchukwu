@@ -1,3 +1,10 @@
+<!--
+**tosinchukwu/tosinchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+🔭 I’m currently working on ...
+💬 Ask me about ... -->
 
 <h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
 
@@ -6,13 +13,7 @@
 </p>
 
 
-<!--
-**tosinchukwu/tosinchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-💬 Ask me about ... -->
+------
 
 
 ### 🌱 I’m currently learning:

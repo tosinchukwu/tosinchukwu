@@ -34,7 +34,13 @@ whoever that is open to Teach
 Git and Python
 
 #### 📫 How to reach me:
-[X (Twitter)](https://x.com/mouseng20)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mouseng20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tosin.mouseng20/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tosin.mouseng20/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tosinchukwu/)
+
+
 
 #### 😄 Pronouns: ...He/Him
 
@@ -52,6 +58,9 @@ Git and Python
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
+
+
+
 
 
 

@@ -50,6 +50,7 @@ Git and Python
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
+![GitHub Contribution Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 
 

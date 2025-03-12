@@ -8,6 +8,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 <p align="center">
   <a href="https://github.com/tosinchukwu"><img src="https://komarev.com/ghpvc/?username=tosinchukwu&style=flat-square" alt="Profile views"/></a>
@@ -45,11 +51,12 @@ Here are some ideas to get you started:
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)
 
 ## 📊 GitHub Stats
-![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=tosinchukwut&theme=radical)
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
+
+
+
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical)![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)

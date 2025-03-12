@@ -1,4 +1,7 @@
-## Hi, I'm Tosinchukwu! 👋
+## Hi, I'm Tosinchukwu! 👋 </p>
+##
+##
+##
 
 
 
@@ -9,16 +12,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 💬 Ask me about ... -->
-
-
-
-
-![GitHub Contribution Snake](https://github.com/tosinchukwu/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 
 
 #### 🌱 I’m currently learning:
@@ -42,18 +35,18 @@ Git and Python
 
 
 
-#### 😄 Pronouns: ...He/Him
-
 #### ⚡ Fun fact:
 - In all things you do, never forget God, the Creator of Heaven and Earth
+
+##
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)
 
-
+## 📊 GitHub Stats
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosinchukwu&theme=radical)
 
-
+## 🏆 GitHub Trophies
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
 
@@ -61,7 +54,7 @@ Git and Python
 
 
 
-
+![GitHub Contribution Snake](https://github.com/tosinchukwu/tosinchukwu/blob/output/github-contribution-grid-snake.svg)
 
 
 

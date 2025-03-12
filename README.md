@@ -45,13 +45,18 @@ Here are some ideas to get you started:
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)
 
 ## 📊 GitHub Stats
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tosinchukwu&theme=radical)
+![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=tosinchukwut&theme=radical)
+
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical)
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
+
 
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/tosinchukwu/tosinchukwu/output/github-contribution-grid-snake.svg)

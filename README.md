@@ -8,25 +8,20 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
 
+---
 <p align="center">
   <a href="https://github.com/tosinchukwu"><img src="https://komarev.com/ghpvc/?username=tosinchukwu&style=flat-square" alt="Profile views"/></a>
 </p>
 
 
-------
+---
 
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently learning: **Git**
 
-**Git**
+### 👯 I’m looking to collaborate with: **Whoever that is open to Teach**
 
-### 👯 I’m looking to collaborate with:
-
-**Whoever that is open to Teach**
-
-### 🤔 I’m looking for help with:
-
-**Git and Python**
+### 🤔 I’m looking for help with: **Git and Python**
 
 ### 📫 How to reach me:
 

@@ -2,7 +2,7 @@ name: GitHub Grass Miner 🌱
 
 on:
   schedule:
-    - cron: "0 11 * * *"  # Runs daily at 1 AM UTC
+    - cron: "0 11 * * *"  # Runs daily at 11 AM UTC
   workflow_dispatch:  # Allows manual execution
 
 jobs:

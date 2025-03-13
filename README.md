@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
 
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/tosinchukwu/tosinchukwu/output/dist/github-contribution-grid-snake.svg)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/tosinchukwu/tosinchukwu/output/github-contribution-grid-snake.svg)
 
 
 

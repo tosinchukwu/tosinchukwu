@@ -3,17 +3,26 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Ensures the repo is available
+
+      - name: Create output directory
+        run: mkdir -p dist  # Ensures the directory exists
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@master
         with:
           github_user_name: tosinchukwu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Corrected from "outputs"
+
+      - name: Upload Snake SVG
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg

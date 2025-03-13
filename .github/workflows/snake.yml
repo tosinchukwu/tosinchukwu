@@ -1,0 +1,28 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # Runs daily at 1 AM UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: tosinchukwu  # Change to your GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push the snake SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push -f origin output

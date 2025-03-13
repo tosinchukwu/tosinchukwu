@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <a href="https://github.com/tosinchukwu"><img src="https://komarev.com/ghpvc/?username=tosinchukwu&style=flat-square" alt="Profile views"/></a>
+  <a href="https://github.com/tosinchukwu?tab=followers"><img src="https://img.shields.io/github/followers/tosinchukwu?style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/tosinchukwu?tab=stars"><img src="https://img.shields.io/github/stars/tosinchukwu?style=social" alt="GitHub Stars" /></a>
 </p>
+
+
 
 ---
 

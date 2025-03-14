@@ -8,12 +8,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
 
 ---
 <p align="center">
@@ -76,6 +70,9 @@ Here are some ideas to get you started:
 
 
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 
 
 

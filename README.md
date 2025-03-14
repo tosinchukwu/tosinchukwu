@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on ...
 💬 Ask me about ... -->
 
+
 <h1 align="center">Hi, I'm Tosinchukwu! 👋 </h1>
 
 
@@ -52,9 +53,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 
-
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical&cache_seconds=7200)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
 
@@ -64,17 +62,7 @@ Here are some ideas to get you started:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
 
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/tosinchukwu/tosinchukwu/output/dist/github-contribution-grid-snake.svg)
-
-
-
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu&theme=vision-friendly-dark)(https://git.io/streak-stats)
-
-
-
-
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu&theme=vision-friendly-dark)
 
 
 

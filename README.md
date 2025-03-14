@@ -60,8 +60,6 @@ Here are some ideas to get you started:
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosinchukwu&theme=react-dark)
-
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=tosinchukwu&theme=vision-friendly-dark)
 
 

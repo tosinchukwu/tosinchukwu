@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 
 
-![Activity Graph](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical&cache_seconds=7200)
-)![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tosinchukwu&show_icons=true&theme=radical&cache_seconds=7200)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tosinchukwu&theme=radical&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=tosinchukwu&theme=radical)

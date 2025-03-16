@@ -1,3 +1,5 @@
+> <p align="center"><i>In whatever you do, always put God First</i></p>
+
 <!--
 **tosinchukwu/tosinchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning: **Git...**
 
-### 👯 I’m looking to collaborate with: **Whoever that is open to Teach!**
+### 👯 I’m looking to collaborate with: **Whoever that is open to Teach/Impact...!**
 
-### 🤔 I’m looking for help with: **Git and Python**
+### 🤔 I’m looking for help with: **Git and Python...**
 
 ### 📫 How to reach me:
 
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 
 
 #### ⚡ Fun fact:
-- In all things you do, never forget God, the Creator of Heaven and Earth
+
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tosinchukwu&theme=radical)

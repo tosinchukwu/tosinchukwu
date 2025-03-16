@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Mouseng20-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mouseng20)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tosin.mouseng20/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tosinchukwu)
+[![Facebook](https://img.shields.io/badge/Facebook-2CA5E0.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mouseng20)
 
 
 
